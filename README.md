@@ -51,7 +51,7 @@ A simple and fun web application that generates a random RGB color at the click 
 2. Navigate into the project folder:
 
     ```bash
-    cd <folderName>
+    cd randrgb
     ```
 
 3. Open `index.html` in your browser:
