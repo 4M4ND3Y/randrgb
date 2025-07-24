@@ -1,0 +1,36 @@
+.body-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.color-body {
+    width: 50%;
+    height: 150px;
+    border: 2px solid black;
+    align-self: center;
+    border-radius: 10px;
+}
+
+button {
+    width: fit-content;
+    height: 40px;
+    margin: 20px 0 40px;
+    align-self: center;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+h1 {
+    width: fit-content;
+    align-self: center;
+    text-align: center;
+}
+
+.reset {
+    width: 115px;
+    margin-top: 40px;
+}
+
+h4 {
+    text-align: center;
+}
